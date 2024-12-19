@@ -467,3 +467,24 @@ resources:
       - agents
       - platform
     logo: logos/agentops.svg
+
+  - name: "Phoenix"
+    description: "Phoenix is an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting."
+    links:
+      - website: "https://github.com/Arize-ai/phoenix"
+    licensing:
+      - "open-source"
+    tags:
+      - observability/evaluation
+    logo: logos/phoenix.png
+
+  - name: "Langtrace"
+    description: "Langtrace is an open source observability software which lets you capture, debug and analyze traces and metrics from all your applications that leverages LLM APIs, Vector Databases and LLM based Frameworks."
+    links:
+      - website: "https://github.com/Scale3-Labs/langtrace"
+    licensing:
+      - "open-source"
+      - "commercial"
+    tags:
+      - observability/evaluation
+    logo: logos/langtrace.png
