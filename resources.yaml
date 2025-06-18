@@ -20,6 +20,17 @@ resources:
       - agents
     logo: https://autogpt.net/wp-content/uploads/2023/04/autogpt_logo.png
 
+  - name: "Agent Development Kit (ADK)"
+    description: "Framework by Google, ADK is a flexible and modular framework for developing and deploying AI agents."
+    links:
+      - github: "https://github.com/google/adk-python"
+      - website: "https://google.github.io/adk-docs/"
+    licensing:
+      - "open-source"
+    tags:
+      - agents
+    logo: logos/agent-development-kit.png
+
   - name: "DSPy"
     description: "Framework for algorithmically optimizing LLM prompts"
     links:
