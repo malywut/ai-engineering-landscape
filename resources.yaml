@@ -83,6 +83,19 @@ resources:
       - guardrails/security
     logo: https://hub.guardrailsai.com/guardrails-logo-icon.svg
 
+  - name: "Apache Gravitino"
+    description: "A high-performance, federated metadata lake for unified access to diverse data and AI assets, enabling end-to-end data governance."
+    links:
+      - website: "https://gravitino.apache.org"
+      - github: "https://github.com/apache/gravitino"
+    licensing:
+      - "open-source"
+    tags:
+      - platform
+      - data search and storage
+      - Other
+    logo: logos/GravitinoLogoPNG.png
+
   - name: "Hugging Face"
     description: "An ML and data science collaborative platform. Users can find and contribute to models, datasets, and applications"
     links:
